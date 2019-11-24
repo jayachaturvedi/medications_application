@@ -2,7 +2,8 @@
 
 Annotation Guidelines:
 
-	This is the latest version of annotation guidelines that were used in the development of a corpus annotated with medications and their attributes in Psychiatric Health Records. 
+	This is the latest version of annotation guidelines that were used in the development of a 
+	corpus annotated with medications and their attributes in Psychiatric Health Records. 
 
 	Credits to Natalia Viani and Sumithra Velupillai
 
@@ -10,7 +11,8 @@ eHOST folder:
 
 	getContent_attahcments.py - To get documents from SQL db
 
-	getDocuments.py -  To split documents from SQL db into batches for upload into eHOST for annotations
+	getDocuments.py -  To split documents from SQL db into batches for upload into eHOST for 
+	annotations
 
 		Credits to Natalia Viani, Andre Bittar
 
