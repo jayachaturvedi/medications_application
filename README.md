@@ -18,6 +18,6 @@ eHOST folder:
 
 HealTAC folder:
 
-	PDF of poster presented at HealTAC in April 2019
+	PDF of poster presented at HealTAC in April 2019, short paper and poster presented at HealTAC in April 2020
 
 	Credits to Natalia Viani, Sumithra Velupillai and Angus Roberts
